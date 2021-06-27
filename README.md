@@ -4,7 +4,7 @@
 The goal of this project was to learn how use HTML to structure the content of
 the page semantically and properly.
 
-> Live demo [_here_](#)
+> Live demo [_here_](https://rzvl.github.io/birdwatching/)
 
 
 ## General Information
@@ -12,6 +12,8 @@ the page semantically and properly.
 This is an old-style-looking website about birds. It uses semantic HTML tags
 such as `header`, `footer`, `article`, `main`, `nav`, and `aside` to structure 
 the layout of the page.
+
+Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content)
 
 
 ## Technologies Used
